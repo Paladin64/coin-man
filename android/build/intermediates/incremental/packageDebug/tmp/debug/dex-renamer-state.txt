@@ -1,0 +1,4 @@
+#Wed Nov 16 12:34:10 MST 2022
+base.0=/home/dragonpaladin64/Programs/LibGDX Projects/Coin Man/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
